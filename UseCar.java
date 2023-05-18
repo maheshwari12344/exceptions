@@ -57,7 +57,7 @@ public class UseCar {
 				}
 				System.out.println(cars.values());
 				
-				
+				System.out.println("car program finished");
 			
 		
 	}
