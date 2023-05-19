@@ -46,7 +46,7 @@ public Car(int chasisNumber, String brand, int price, String colour, String mode
 }
 @Override
 public String toString() {
-	return "Car chasisNumber=" + chasisNumber + ", brand=" + brand + ", price=" + price + ", colour=" + colour+", Model="+model+"\n";
+	return "Car chasisNumber=" + chasisNumber + ", brand=" + brand + ", price=" + price +", Model="+model+"\n";
 }
 
 
